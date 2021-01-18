@@ -1,1 +1,2 @@
 # 🏠Home Loan Prediction
+This notebook contains the eligibility of the customer to get a home loan from the company called `Dreaming Loan Housing` Finance. This company wants to automate this procedure of selecting the customer that are eligible for getting the home loan.
